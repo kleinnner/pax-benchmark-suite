@@ -1,0 +1,21 @@
+ID,Problem,Domain,Tokens,Time(s)
+P01,Navier-Stokes Existence and Smoothness,Mathematics/PDE,1200,290.86
+P02,Riemann Hypothesis,Mathematics/Number Theory,1200,289.88
+P03,P vs NP Problem,Computer Science/Mathematics,1200,290.71
+P04,Yang-Mills Existence and Mass Gap,Physics/Mathematics,1200,293.28
+P05,Hodge Conjecture,Mathematics/Algebraic Geometry,1200,291.71
+P06,Birch and Swinnerton-Dyer Conjecture,Mathematics/Number Theory,1200,291.34
+P07,Dark Matter Composition,Astrophysics/Cosmology,1200,289.49
+P08,Quantum Gravity Unification,Theoretical Physics,1200,292.3
+P09,Origin of Matter-Antimatter Asymmetry,Particle Physics/Cosmology,1200,289.72
+P10,Consciousness and the Hard Problem,Neuroscience/Philosophy,1200,286.75
+P11,High-Temperature Superconductivity Mechani,Condensed Matter Physics,1200,285.8
+P12,Turbulence Structure and Prediction,Physics/Engineering,1200,288.17
+P13,Protein Misfolding Diseases Mechanism,Biochemistry/Medicine,1200,287.65
+P14,Cosmological Constant Problem,Theoretical Physics/Cosmology,1200,285.92
+P15,Integer Factorization Complexity,Mathematics/Computer Science,1200,290.64
+P16,Arrow of Time and Entropy,Thermodynamics/Cosmology,1200,285.83
+P17,Neural Code and Memory Encoding,Neuroscience,1200,285.43
+P18,Quantum Measurement Problem,Quantum Mechanics/Philosophy,1200,288.76
+P19,Origin of Life and Self-Replication,Biology/Chemistry,1200,291.25
+P20,Black Hole Information Paradox,Theoretical Physics,1200,291.42

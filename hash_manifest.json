@@ -1,0 +1,102 @@
+{
+  "P01": {
+    "file": "/kaggle/working/solutions/P01_solution.txt",
+    "sha3_256": "56170c4d9c93a442036c644b610f5a8fa22262eb1ea866a539f5e436999afebd",
+    "tokens": 1200
+  },
+  "P02": {
+    "file": "/kaggle/working/solutions/P02_solution.txt",
+    "sha3_256": "01df16f5a8e28a65bf7a76849a5a4d141c40197f8997ca45958f2a637355ffba",
+    "tokens": 1200
+  },
+  "P03": {
+    "file": "/kaggle/working/solutions/P03_solution.txt",
+    "sha3_256": "c3cb8fc238aaa6a5c50df01b20e0b921074ee90c99c66d735280418726d2819c",
+    "tokens": 1200
+  },
+  "P04": {
+    "file": "/kaggle/working/solutions/P04_solution.txt",
+    "sha3_256": "33977c15cc3f921ac1b4bfb736f3d6b6a57cd16daec9d8109b5c2c1fa59d83dd",
+    "tokens": 1200
+  },
+  "P05": {
+    "file": "/kaggle/working/solutions/P05_solution.txt",
+    "sha3_256": "ed545334983f8c7b2c50134ebc61e3dca7cb3031633cfa2819c62509b6a44519",
+    "tokens": 1200
+  },
+  "P06": {
+    "file": "/kaggle/working/solutions/P06_solution.txt",
+    "sha3_256": "2be8af2a9bf62da463a53cb6d23d2b0132dede4efc3d18889ef0cead9f36061d",
+    "tokens": 1200
+  },
+  "P07": {
+    "file": "/kaggle/working/solutions/P07_solution.txt",
+    "sha3_256": "ab1ee372454e3074516361a0cd8257583a8ab340fef21a9e3e9659d726f75021",
+    "tokens": 1200
+  },
+  "P08": {
+    "file": "/kaggle/working/solutions/P08_solution.txt",
+    "sha3_256": "264281f047ea3c30ffe08c771c48f27a8e668dddf5563a00b8ba0a5c49c00aaf",
+    "tokens": 1200
+  },
+  "P09": {
+    "file": "/kaggle/working/solutions/P09_solution.txt",
+    "sha3_256": "e9c64be907f48cd48b3dcd1944888cbd3814a29ebccbeca45bcf7d65be83a503",
+    "tokens": 1200
+  },
+  "P10": {
+    "file": "/kaggle/working/solutions/P10_solution.txt",
+    "sha3_256": "b06ed8a1a2b3e3340ef84421ac004fec5c1592d9e7b50da3449dcee57c1807bf",
+    "tokens": 1200
+  },
+  "P11": {
+    "file": "/kaggle/working/solutions/P11_solution.txt",
+    "sha3_256": "561828154315d094f89a97422adcbb5aea464c47b65c3a33f7e84b270ec20a9d",
+    "tokens": 1200
+  },
+  "P12": {
+    "file": "/kaggle/working/solutions/P12_solution.txt",
+    "sha3_256": "06fcd7f95447cac90a4de711d0111e810387332e0899576a8b408f62c7ff2e49",
+    "tokens": 1200
+  },
+  "P13": {
+    "file": "/kaggle/working/solutions/P13_solution.txt",
+    "sha3_256": "0bf72f49573b61258155038b6857380915d4c329b772700990565ebb6b4c28ef",
+    "tokens": 1200
+  },
+  "P14": {
+    "file": "/kaggle/working/solutions/P14_solution.txt",
+    "sha3_256": "516b92bb7cb0b3c1b3e45bc591650eec127d7f88a5165745937bbc49840ea59d",
+    "tokens": 1200
+  },
+  "P15": {
+    "file": "/kaggle/working/solutions/P15_solution.txt",
+    "sha3_256": "9edf9444277072ebbd857e90e7496a0048fb8a42d00efa33c0537ba3f0d0bdbf",
+    "tokens": 1200
+  },
+  "P16": {
+    "file": "/kaggle/working/solutions/P16_solution.txt",
+    "sha3_256": "0b29997ba0e3c5ac7f9f545f9acf2504af269ac8c0da2baf418cbfa356c4f854",
+    "tokens": 1200
+  },
+  "P17": {
+    "file": "/kaggle/working/solutions/P17_solution.txt",
+    "sha3_256": "1912c943b810c31884d40d97962874d20c14eac84e6e0fa494a6aa30985afb24",
+    "tokens": 1200
+  },
+  "P18": {
+    "file": "/kaggle/working/solutions/P18_solution.txt",
+    "sha3_256": "edeee5f07676f3a8701640c203aa227015605f6ea494c2047b35570d14aec553",
+    "tokens": 1200
+  },
+  "P19": {
+    "file": "/kaggle/working/solutions/P19_solution.txt",
+    "sha3_256": "e735d64f72b98e7770672cf15d67db1dabdc48944e665163e3a4d77467ded49f",
+    "tokens": 1200
+  },
+  "P20": {
+    "file": "/kaggle/working/solutions/P20_solution.txt",
+    "sha3_256": "32d97510d7ea0d9bb466646ca9e82a30d0268bd360b706c8f45ffd152ef962aa",
+    "tokens": 1200
+  }
+}

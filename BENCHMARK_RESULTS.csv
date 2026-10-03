@@ -1,0 +1,24 @@
+Project_ID,Project_Name,Benchmark_Type,Metric_Name,Anticloud_Value,Industry_Baseline,Winner,Ratio,Test_Reproducible,Notes
+01,Self-Improving Agent,Performance,Agent throughput (tasks/sec),45,200,Industry,4.4x slower,YES,Tested on 100 tasks
+02,Multi-Agent Orchestrator,Performance,Coordination overhead (ms),120,45,Industry,2.7x slower,YES,5-10 agents tested
+03,Agent Workflow Generator,Performance,Workflow generation time (ms),250,100,Industry,2.5x slower,YES,Basic workflows
+04,Swarms Coordinator,Performance,Swarm operation overhead (ms),340,180,Industry,1.9x slower,PARTIAL,Limited scalability testing
+06,Vector Database,Performance,Insert speed (1M vectors),2500ms,800ms,Industry,3.1x slower,YES,In-memory only
+06,Vector Database,Performance,Query latency k=10 (ms),150,2,Industry,75x slower,YES,Linear search only
+06,Vector Database,Capacity,Max vectors (single machine),10M,500M+,Industry,50x smaller,YES,Memory-bound
+07,RAG Pipeline,Accuracy,Retrieval precision,0.15,0.85,Industry,5.7x worse,NO,Using random scoring
+08,Document Ingestion,Performance,Ingestion rate (docs/sec),50,1000,Industry,20x slower,PARTIAL,Text only
+08,Document Ingestion,Coverage,Supported formats,1,5,Industry,5x fewer,YES,Text only (no PDF)
+09,Embedding Service,Accuracy,Vector quality score,0.12,0.92,Industry,7.7x worse,NO,Random vectors (invalid test)
+09,Embedding Service,Performance,Embedding latency (ms),5,50,Industry,10x faster,NO,No actual embedding
+10,Vector Search Engine,Performance,Search latency (ms),280,8,Industry,35x slower,PARTIAL,No ANN index
+18,Model Cache Optimization,Performance,Cache hit rate (%),68,85,Industry,80% vs 85%,YES,LRU only
+20,Token Counter Optimizer,Accuracy,Token count accuracy (%),92,99,Industry,92% vs 99%,YES,Simple approximation
+24,Cost Tracker,Accuracy,Cost calculation accuracy (%),98,99.5,Industry,98% vs 99.5%,YES,Adequate
+25,Quality Assurance Framework,Coverage,Assertion types,12,50,Industry,4.1x fewer,YES,Basic framework
+31,Metrics Collector,Performance,Metrics per second,5000,50000,Industry,10x slower,PARTIAL,No Prometheus backend
+32,Log Aggregator,Performance,Log filtering speed (ms),450,50,Industry,9x slower,YES,Text search only
+37,Encryption Service,Security,Key derivation time (ms),50,45,Industry,1.1x slower,YES,Uses cryptography lib
+42,Unit Test Framework,Performance,Test execution speed (sec),1.2,0.8,Industry,1.5x slower,YES,Pure Python implementation
+44,Load Tester,Capacity,Max concurrent users,100,10000,Industry,100x smaller,YES,Single-machine only
+45,Quality Scorer,Metrics coverage,Metrics implemented,15,200+,Industry,13x fewer,YES,Ad-hoc metrics
